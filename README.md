@@ -12,17 +12,22 @@
 - 📫 How to reach me **priyankaaatuli123@gmail.com**
 
 ### Connect with me: 
-<Div id="badges">
-<a href="https://linkedin.com/in/priyanka-basak-tuli" target="blank">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+<div id="badges">
+   
+<a href="https://github.com/priyankatuli" target="_blank">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black" alt="Github Badge"/>
+</a> 
+   
+<a href="https://linkedin.com/in/priyanka-basak-tuli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://www.leetcode.com/tulii47" target="blank">
-   <img src="https://img.shields.io/badge/Leetcode-white?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
-  </a>
-<a href="https://github.com/priyankatuli">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>  
+  
+<a href="https://www.leetcode.com/tulii47" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+</a>
+  
 </div>
+
 
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,mysql,html,css,java,c,androidstudio&perline=5)](https://skillicons.dev)
