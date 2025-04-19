@@ -48,3 +48,4 @@ Problem solving hasn’t been my strongest skill, but I’ve been working hard t
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankatuli&show_icons=true&locale=en&theme=tokyonight" alt="priyankatuli" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankatuli&" alt="priyankatuli" /></p>
