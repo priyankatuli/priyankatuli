@@ -2,7 +2,7 @@
 <img align="center" width="100%" src="https://github.com/priyankatuli/priyankatuli/blob/ba2e903b864a24d6594ceb84e1e98e5ae65292f8/MyBanner.png"></img>
 
 <h1 align="center">Hi 👋, I'm Priyanka Basak Tuli</h1>
-<h3 align="left"> About Me</h2></h2>
+<h3 align="left"> 🙋‍♀️ About Me</h2></h2>
 
 <h3 align="justify">I am a dedicated software developer with a passion for mobile app development, specializing in the Flutter framework. I thrive on working on real-world projects and exploring cutting-edge technologies to continuously grow and deliver impactful solutions.
 </h3>
