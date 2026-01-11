@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img align="center" width="100%" src="https://github.com/priyankatuli/priyankatuli/blob/ddff629c26bd8bc9c351cb4cd2be205a6e7a37f0/MyBanner.png"></img>
+<img align="center" width="100%" src="https://github.com/priyankatuli/priyankatuli/blob/bd3d921e9844636d8cdd18bc2072ddaa6093ab34/banner.png"></img>
 
 <h1 align="center">Hi 👋, I'm Priyanka Basak Tuli</h1>
 <h3 align="left"> 🙋‍♀️ About Me</h2></h2>
